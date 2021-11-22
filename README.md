@@ -1,3 +1,3 @@
 # HarmoleculesSite
 
-This is the main deployed site for Harmolecules.
+This is the main deployed site for Harmolecules.com
