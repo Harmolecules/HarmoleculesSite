@@ -24,6 +24,15 @@ p {
   color: #ffffff;
 }
 
+h3 {
+  font-family: "ROBOTO", sans-serif;
+  font-size: 1vw;
+  margin: 0;
+  padding-bottom: 0.3rem;
+  letter-spacing: 0.2rem;
+  color: #ffffff;
+}
+
 .nav,
 .slider {
   display: flex;
